@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+typer
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
