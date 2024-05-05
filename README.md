@@ -31,4 +31,4 @@ Before you begin, ensure you have Docker Desktop and Docker Compose installed on
     ```
     This command will build the Docker image for your FastAPI application, create and start the Docker container, and expose port 8000 on your localhost for accessing the FastAPI application.
 
-4. **Access FastAPI Application**: Once the Docker containers are running, you can access your FastAPI application in your browser at http://localhost:8000.
+4. **Access FastAPI Application**: Once the Docker containers are running, you can access your FastAPI application in your browser at http://localhost:8000/docs.
