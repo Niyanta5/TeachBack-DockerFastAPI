@@ -8,8 +8,8 @@ Before you begin, ensure you have Docker Desktop and Docker Compose installed on
 
 1. **Clone the Repository**: Clone the repository containing your FastAPI application code from GitHub.
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Niyanta5/TeachBack-DockerFastAPI.git
+    cd TeachBack-DockerFastAPI
     ```
 
 2. **Configure Docker Compose**: Open the `docker-compose.yaml` file in your project directory and ensure it is configured correctly. This file should define the services required for running your FastAPI application, including any dependencies like databases.
